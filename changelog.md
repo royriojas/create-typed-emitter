@@ -1,5 +1,13 @@
 
 # create-typed-emitter - Changelog
+## v0.0.5
+- **Features**
+  - remove non needed deps - [86f65ef]( https://github.com/royriojas/create-typed-emitter/commit/86f65ef ), [Roy Riojas](https://github.com/Roy Riojas), 09/10/2024 01:57:28
+
+    
+  - remove non needed deps - [97cbc02]( https://github.com/royriojas/create-typed-emitter/commit/97cbc02 ), [Roy Riojas](https://github.com/Roy Riojas), 09/10/2024 01:56:28
+
+    
 ## v0.0.4
 - **Other changes**
   - Add test for once - [d6c1a76]( https://github.com/royriojas/create-typed-emitter/commit/d6c1a76 ), [Roy Riojas](https://github.com/Roy Riojas), 08/10/2024 01:00:58
