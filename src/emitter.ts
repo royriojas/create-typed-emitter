@@ -90,14 +90,14 @@ export class Emitter {
     return off;
   };
 
-  off = (eventName: string, handler: Handler<any>): boolean => {
+  off = (eventName: string, handler: Handler<any>): void => {
     const eventSet = this.eventsMap.get(eventName);
 
     if (!eventSet) {
-      return false;
+      return;
     }
 
-    return eventSet.delete(handler);
+    eventSet.delete(handler);
   };
 
   clear = (eventName: string) => {
