@@ -1,5 +1,10 @@
 
 # create-typed-emitter - Changelog
+## v0.0.6
+- **Features**
+  - fix typings for the off method - [e2189c6]( https://github.com/royriojas/create-typed-emitter/commit/e2189c6 ), [Roy Riojas](https://github.com/Roy Riojas), 11/11/2024 20:33:31
+
+    
 ## v0.0.5
 - **Features**
   - remove non needed deps - [86f65ef]( https://github.com/royriojas/create-typed-emitter/commit/86f65ef ), [Roy Riojas](https://github.com/Roy Riojas), 09/10/2024 01:57:28
